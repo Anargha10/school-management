@@ -17,4 +17,4 @@
 - Run with `npm run dev`
 
 ### Hosted API:
-[[https://school-api.onrender.com](#)](https://school-management-1-tqep.onrender.com)
+https://school-management-1-tqep.onrender.com
